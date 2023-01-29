@@ -1,2 +1,2 @@
-# guro
+# node-typescript-template
  
